@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/easylogger/port/elog_port.c.o", "easylogger/port/elog_port.c"],
+  "file": "easylogger/port/elog_port.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/easylogger/src/elog.c.o", "easylogger/src/elog.c"],
+  "file": "easylogger/src/elog.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/easylogger/src/elog_buf.c.o", "easylogger/src/elog_buf.c"],
+  "file": "easylogger/src/elog_buf.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/easylogger/src/elog_async.c.o", "easylogger/src/elog_async.c"],
+  "file": "easylogger/src/elog_async.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/usage-easylogger",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-Ieasylogger/inc", "-Ieasylogger/plugins", "-Ieasylogger/port", "-Ieasylogger/src", "-o", "build/.objs/usage-easylogger/linux/x86_64/debug/easylogger/src/elog_utils.c.o", "easylogger/src/elog_utils.c"],
+  "file": "easylogger/src/elog_utils.c"
+}]
