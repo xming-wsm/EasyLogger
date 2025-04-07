@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/impl-3flogger",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Isrc", "-o", "build/.objs/impl-3flogger/linux/x86_64/src/flog.c.o", "src/flog.c"],
+  "file": "src/flog.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/impl-3flogger",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Isrc", "-o", "build/.objs/impl-3flogger/linux/x86_64/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+},
+{
+  "directory": "/home/threeflowercat/coding-prj2/EasyLogger/impl-3flogger",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Isrc", "-o", "build/.objs/impl-3flogger/linux/x86_64/src/flog_port.c.o", "src/flog_port.c"],
+  "file": "src/flog_port.c"
+}]
